@@ -1,0 +1,911 @@
+/*
+	@name silverline
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 5222px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_silverline_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 5222px;
+}
+
+#_bg__silverline_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 5222px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_4 {
+	opacity:0.80000001192093;
+	top: 1520px;
+	left: 0px;
+	width: 1440px;
+	height: 404px;
+	background:rgba(227,222,209,0.8);
+}
+
+
+#gold_1 {
+	top: 1275px;
+	left: 800px;
+	width: 744.99px;
+	height: 750.95px;
+}
+
+
+#rectangle_8 {
+	top: 1116px;
+	left: 0px;
+	width: 1440px;
+	height: 404px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_3 {
+	top: 1120px;
+	left: 203px;
+	width: 516.12px;
+	height: 344.58px;
+}
+
+
+#rectangle_5 {
+	top: 1924px;
+	left: 0px;
+	width: 1440px;
+	height: 404px;
+	background:rgba(255,255,255,1);
+}
+
+
+#uhrenkollektion_f_r_frauen_und_m_nner {
+	top: 1994px;
+	left: 815px;
+	width: 530.6px;
+	height: 94.6px;
+	overflow: hidden;
+	font-family: Roboto Serif;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_6 {
+	top: 2114px;
+	left: 819px;
+	width: 72.01px;
+	height: 1px;
+}
+
+
+#unsere_uhrenkollektionen_vereinen_pr_zision_und_mode__um_ihren_pers_nlichen_stil_zu_betonen__egal_ob_sie_eine_frau_oder_ein_mann_sind_ {
+	top: 2162px;
+	left: 818px;
+	width: 449px;
+	height: 83px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#979797;
+}
+
+
+#uhrenkollektion_f_r_frauen_und_m_nner_ek1 {
+	top: 1994px;
+	left: 815px;
+	width: 530.6px;
+	height: 94.6px;
+	overflow: hidden;
+	font-family: Roboto Serif;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#was_wir_noch_anbieten {
+	top: 4113px;
+	left: 394px;
+	width: 694.4px;
+	height: 94.4px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 64px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_8 {
+	top: 2114px;
+	left: 819px;
+	width: 72.01px;
+	height: 1px;
+}
+
+
+#unsere_uhrenkollektionen_vereinen_pr_zision_und_mode__um_ihren_pers_nlichen_stil_zu_betonen__egal_ob_sie_eine_frau_oder_ein_mann_sind__ek1 {
+	top: 2162px;
+	left: 818px;
+	width: 449px;
+	height: 83px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#979797;
+}
+
+
+#rectangle_10 {
+	top: 2732px;
+	left: 0px;
+	width: 1440px;
+	height: 404px;
+	background:rgba(255,255,255,1);
+}
+
+
+#noseee_1 {
+	top: 2732px;
+	left: 0px;
+	width: 317px;
+	height: 317px;
+}
+
+
+#nosse_1 {
+	top: 2816px;
+	left: 264px;
+	width: 347.64px;
+	height: 347.64px;
+}
+
+
+#nasenringe {
+	top: 2802px;
+	left: 815px;
+	width: 230.6px;
+	height: 52.6px;
+	overflow: hidden;
+	font-family: Roboto Serif;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_9 {
+	top: 2922px;
+	left: 819px;
+	width: 72.01px;
+	height: 1px;
+}
+
+
+#setzen_sie_ein_trendiges_statement_mit_unseren_vielf_ltigen_nasenringen__die_ihre_einzigartigkeit_betonen_ {
+	top: 2970px;
+	left: 818px;
+	width: 449px;
+	height: 83px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#979797;
+}
+
+
+#rectangle_12 {
+	top: 3540px;
+	left: 0px;
+	width: 1440px;
+	height: 404px;
+	-ms-box-shadow:0px 4px 13px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 13px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 13px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 13px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 13px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,1);
+}
+
+
+#elegante_silberringe_f_r_m_nner {
+	top: 3610px;
+	left: 815px;
+	width: 399.6px;
+	height: 94.6px;
+	overflow: hidden;
+	font-family: Roboto Serif;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_11 {
+	top: 3730px;
+	left: 819px;
+	width: 72.01px;
+	height: 1px;
+}
+
+
+#unsere_silberringe_f_r_m_nner_verk_rpern_stil_und_klasse_und_sind_die_perfekte_wahl_f_r_anspruchsvolle_herren_ {
+	top: 3778px;
+	left: 818px;
+	width: 449px;
+	height: 83px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#979797;
+}
+
+
+#rectangle_6 {
+	top: 2328px;
+	left: 0px;
+	width: 1440px;
+	height: 404px;
+	background:rgba(241,241,241,1);
+}
+
+
+#rectangle_2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 91px;
+	background:rgba(255,255,255,1);
+}
+
+
+#silber_kollektion {
+	top: 1190px;
+	left: 820px;
+	width: 216.6px;
+	height: 94.6px;
+	overflow: hidden;
+	font-family: Roboto Serif;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_4 {
+	top: 1309px;
+	left: 819px;
+	width: 72.01px;
+	height: 1px;
+}
+
+
+#entdecken_sie_zeitlose_eleganz_und_schlichte_sch_nheit_in_unserer_exquisiten_silberkollektion__die_auch_wundersch_ne_schmucksets_aus_ringen__ohrringen__ketten_und_armb_ndern_umfasst__um_ihren_look_zu_vervollkommnen_ {
+	top: 1346px;
+	left: 818px;
+	width: 464px;
+	height: 122px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#979797;
+}
+
+
+#edelstahl__und_vergoldete_silberkollektion {
+	top: 1605px;
+	left: 154px;
+	width: 498.6px;
+	height: 94.6px;
+	overflow: hidden;
+	font-family: Roboto Serif;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_5 {
+	top: 1724px;
+	left: 153px;
+	width: 72.01px;
+	height: 1px;
+}
+
+
+#erleben_sie_die_perfekte_kombination_aus_modernem_stil_und_langlebiger_raffinesse_in_unserer_edelstahl__und_vergoldeten_silberkollektion_ {
+	top: 1753px;
+	left: 154px;
+	width: 449px;
+	height: 83px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#979797;
+}
+
+
+#rectangle_9 {
+	opacity:0.80000001192093;
+	top: 2331px;
+	left: 0px;
+	width: 1440px;
+	height: 404px;
+	background:rgba(227,222,209,0.8);
+}
+
+
+#edelstahl__und_vergoldete_herrenarb_nder {
+	top: 2413px;
+	left: 154px;
+	width: 498.6px;
+	height: 94.6px;
+	overflow: hidden;
+	font-family: Roboto Serif;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_7 {
+	top: 2532px;
+	left: 153px;
+	width: 72.01px;
+	height: 1px;
+}
+
+
+#verleihen_sie_ihrem_look_mit_unseren_edlen_edelstahl__und_lederarmb_ndern_eine_markante_note_ {
+	top: 2569px;
+	left: 152px;
+	width: 449px;
+	height: 83px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#979797;
+}
+
+
+#rectangle_11 {
+	opacity:0.80000001192093;
+	top: 3136px;
+	left: 0px;
+	width: 1440px;
+	height: 404px;
+	background:rgba(227,222.05,209,0.8);
+}
+
+
+#hochzeitsringe_aus_silber {
+	top: 3221px;
+	left: 154px;
+	width: 485.6px;
+	height: 52.6px;
+	overflow: hidden;
+	font-family: Roboto Serif;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_10 {
+	top: 3340px;
+	left: 153px;
+	width: 72.01px;
+	height: 1px;
+}
+
+
+#feiern_sie_ihre_liebe_mit_unseren_eleganten_und_zeitlosen_silber_hochzeitsringen__die_f_r_die_ewigkeit_gemacht_sind_ {
+	top: 3377px;
+	left: 152px;
+	width: 449px;
+	height: 83px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#979797;
+}
+
+
+#image_2 {
+	top: 1170px;
+	left: 54px;
+	width: 146px;
+	height: 155px;
+}
+
+
+#image_3 {
+	top: 1325px;
+	left: 179px;
+	width: 144px;
+	height: 155px;
+}
+
+
+#ring_1 {
+	top: 1648px;
+	left: 780px;
+	width: 257px;
+	height: 210px;
+}
+
+#group_7 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1025px;
+}
+
+#_bg__group_7_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1025px;
+	background:#;
+}
+
+
+#plakat_63x88_1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1025px;
+}
+
+
+#_1111_1 {
+	top: 703px;
+	left: 49px;
+	width: 357px;
+	height: 289px;
+}
+
+#group_3 {
+	top: 4301px;
+	left: 36px;
+	width: 1368px;
+	height: 277px;
+}
+
+#_bg__group_3_ek1 {
+	top: -4301px;
+	left: -36px;
+	width: 1368px;
+	height: 277px;
+	background:#;
+}
+
+
+#rectangle_18 {
+	opacity:0.37999999523163;
+	top: 0px;
+	left: 0px;
+	width: 330px;
+	height: 277px;
+	-ms-border-radius: 23px;
+	-o-border-radius: 23px;
+	-moz-border-radius: 23px;
+	-webkit-border-radius: 23px;
+	border-radius: 23px;
+	-ms-box-shadow:3px 5px 7px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:3px 5px 7px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:3px 5px 7px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:3px 5px 7px 1px rgba(0,0,0,0.25);
+	box-shadow:3px 5px 7px 1px rgba(0,0,0,0.25);
+	background:rgba(227,222,209,0.38);
+}
+
+
+#rectangle_19 {
+	opacity:0.37999999523163;
+	top: 0px;
+	left: 346px;
+	width: 330px;
+	height: 277px;
+	-ms-border-radius: 23px;
+	-o-border-radius: 23px;
+	-moz-border-radius: 23px;
+	-webkit-border-radius: 23px;
+	border-radius: 23px;
+	-ms-box-shadow:3px 5px 7px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:3px 5px 7px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:3px 5px 7px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:3px 5px 7px 1px rgba(0,0,0,0.25);
+	box-shadow:3px 5px 7px 1px rgba(0,0,0,0.25);
+	background:rgba(227,222,209,0.38);
+}
+
+
+#rectangle_20 {
+	opacity:0.37999999523163;
+	top: 0px;
+	left: 692px;
+	width: 330px;
+	height: 277px;
+	-ms-border-radius: 23px;
+	-o-border-radius: 23px;
+	-moz-border-radius: 23px;
+	-webkit-border-radius: 23px;
+	border-radius: 23px;
+	-ms-box-shadow:3px 5px 7px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:3px 5px 7px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:3px 5px 7px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:3px 5px 7px 1px rgba(0,0,0,0.25);
+	box-shadow:3px 5px 7px 1px rgba(0,0,0,0.25);
+	background:rgba(227,222,209,0.38);
+}
+
+
+#rectangle_21 {
+	opacity:0.37999999523163;
+	top: 0px;
+	left: 1038px;
+	width: 330px;
+	height: 277px;
+	-ms-border-radius: 23px;
+	-o-border-radius: 23px;
+	-moz-border-radius: 23px;
+	-webkit-border-radius: 23px;
+	border-radius: 23px;
+	-ms-box-shadow:3px 5px 7px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:3px 5px 7px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:3px 5px 7px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:3px 5px 7px 1px rgba(0,0,0,0.25);
+	box-shadow:3px 5px 7px 1px rgba(0,0,0,0.25);
+	background:rgba(227,222,209,0.38);
+}
+
+
+#schmuckanfertigung {
+	top: 122px;
+	left: 11px;
+	width: 412.19px;
+	height: 42.9px;
+	overflow: hidden;
+	font-family: Roboto Serif;
+	font-size: 29px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_21_ek1 {
+	top: 4808px;
+	left: 0px;
+	width: 1440px;
+	height: 414px;
+	background:rgba(0,0,0,1);
+}
+
+
+#line_12 {
+	top: 4912px;
+	left: 585px;
+	width: 243.01px;
+	height: 4.98px;
+}
+
+
+#line_15 {
+	top: 5077.98px;
+	left: 104px;
+	width: 243.01px;
+	height: 4.98px;
+}
+
+
+#line_14 {
+	top: 4912px;
+	left: 103px;
+	width: 243.01px;
+	height: 4.98px;
+}
+
+
+#line_13 {
+	top: 4912px;
+	left: 1067px;
+	width: 243.01px;
+	height: 4.98px;
+}
+
+
+#service {
+	top: 4864px;
+	left: 107px;
+	width: 151.8px;
+	height: 41.8px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 28px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#adresse {
+	top: 4864px;
+	left: 588px;
+	width: 151.8px;
+	height: 41.8px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 28px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#_ffnungszeiten {
+	top: 5030px;
+	left: 107px;
+	width: 236.8px;
+	height: 41.8px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 28px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#langendorfer_stra_e_82b_56564_neuwied {
+	top: 4941px;
+	left: 588px;
+	width: 427.8px;
+	height: 92.8px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 28px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#__49_177_5227161 {
+	top: 4941px;
+	left: 107px;
+	width: 255.8px;
+	height: 45.8px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 28px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#mo__sa__10_00___18_00_uhr {
+	top: 5107px;
+	left: 107px;
+	width: 350.8px;
+	height: 43.8px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 28px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#social_media {
+	top: 4864px;
+	left: 1069px;
+	width: 207.8px;
+	height: 41.8px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 28px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#ring_mannnn_ex_1 {
+	top: 3575px;
+	left: 71px;
+	width: 238px;
+	height: 238px;
+}
+
+
+#ring_mannnnexx_1 {
+	top: 3679px;
+	left: 321px;
+	width: 235.17px;
+	height: 229.77px;
+}
+
+
+#image_6 {
+	top: 2746px;
+	left: 151px;
+	width: 375px;
+	height: 375px;
+	
+	-ms-transform:rotate(0.35deg);
+	-o-transform:rotate(0.35deg);
+	-webkit-transform:rotate(0.35deg);
+	-moz-transform:rotate(0.35deg);
+	transform:rotate(0.35deg);
+	background:rgba(255,255,255,0);
+}
+
+
+#hochzeitring_1 {
+	top: 3229px;
+	left: 1067px;
+	width: 319px;
+	height: 319px;
+}
+
+
+#cat_verlobungsring_einkarat_1 {
+	top: 3125px;
+	left: 781px;
+	width: 322px;
+	height: 322px;
+}
+
+
+#manuzhr {
+	top: 1960px;
+	left: 120px;
+	width: 212px;
+	height: 329px;
+}
+
+
+#image_8 {
+	top: 4941px;
+	left: 1070px;
+	width: 54px;
+	height: 54px;
+}
+
+
+#image_9 {
+	top: 4928px;
+	left: 1150px;
+	width: 80px;
+	height: 80px;
+}
+
+
+#image_10 {
+	top: 4931px;
+	left: 1256px;
+	width: 52px;
+	height: 72px;
+}
+
+
+#schmuckreparatur {
+	top: 4423px;
+	left: 410px;
+	width: 296.9px;
+	height: 42.9px;
+	overflow: hidden;
+	font-family: Roboto Serif;
+	font-size: 29px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#batteriewechsel {
+	top: 4423px;
+	left: 777px;
+	width: 254.9px;
+	height: 42.9px;
+	overflow: hidden;
+	font-family: Roboto Serif;
+	font-size: 29px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#ohrloch_stechen {
+	top: 4423px;
+	left: 1120px;
+	width: 262.9px;
+	height: 42.9px;
+	overflow: hidden;
+	font-family: Roboto Serif;
+	font-size: 29px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+#group_6 {
+	top: 2344px;
+	left: 765px;
+	width: 675.11px;
+	height: 384.38px;
+}
+
+#_bg__group_6_ek1 {
+	top: -2344px;
+	left: -765px;
+	width: 675.11px;
+	height: 384.38px;
+	background:#;
+}
+
+
+#a2 {
+	top: 17px;
+	left: 12px;
+	width: 261.57px;
+	height: 321.79px;
+}
+
+
+#a3 {
+	top: 15px;
+	left: 181px;
+	width: 262px;
+	height: 336px;
+}
+
+
+#a1 {
+	top: 12px;
+    left: 337px;
+    width: 390px; 
+    height: 390px; 
+}
+
+
+#frauuhr {
+	top: 1960px;
+	left: 391px;
+	width: 185px;
+	height: 326px;
+}
+
+
+
+/* Add your custom CSS here */
